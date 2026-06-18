@@ -1,0 +1,5 @@
+.idea/
+.tracecov/
+__pycache__/
+*.pyc
+*.cover
