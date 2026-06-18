@@ -1,6 +1,6 @@
 # e-hdm
 
-`e-hdm` is an open source Python client for the Armenian electronic HDM API described in the April 2026 integration manual.
+`e-hdm` is an open source Python client for the Armenian electronic HDM API described in the April 2026 integration manual. https://src.am/storage/menu_contents_144/uc_hhpek_electronic_HDM_integration_manual_04_2026__69eef5319d758.pdf
 
 It covers the full documented API surface:
 
