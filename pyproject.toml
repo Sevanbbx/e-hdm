@@ -4,7 +4,7 @@ build-backend = "setuptools.build_meta"
 
 [project]
 name = "e-hdm"
-version = "0.1.0"
+version = "1.0.0"
 description = "Python client for the Armenian electronic HDM API"
 readme = "README.md"
 requires-python = ">=3.10"
@@ -26,13 +26,12 @@ classifiers = [
 ]
 
 [project.urls]
-Homepage = "https://github.com/example/e-hdm"
-Repository = "https://github.com/example/e-hdm"
-Issues = "https://github.com/example/e-hdm/issues"
+Homepage = "https://github.com/Sevanbbx/e-hdm"
+Repository = "https://github.com/Sevanbbx/e-hdm"
+Issues = "https://github.com/Sevanbbx/e-hdm/issues"
 
 [tool.setuptools]
 package-dir = {"" = "src"}
 
 [tool.setuptools.packages.find]
 where = ["src"]
-
